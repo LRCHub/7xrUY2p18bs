@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Princesses Don't Cry",
+  "base_artist": "CARYS",
+  "createdAt": "2025-12-19T08:29:24.346205Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Princesses Don't Cry",
+      "artist": "CARYS",
+      "has_synced": true,
+      "path": "select/01_Princesses_Don't_Cry_CARYS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Princesses Don't Cry",
+      "artist": "Carys",
+      "has_synced": true,
+      "path": "select/02_Princesses_Don't_Cry_Carys.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Princesses Don't Cry",
+      "artist": "Carys",
+      "has_synced": true,
+      "path": "select/03_Princesses_Don't_Cry_Carys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Princesses Don't Cry",
+      "artist": "Aviva",
+      "has_synced": true,
+      "path": "select/04_Princesses_Don't_Cry_Aviva.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Princesses Don't Cry (Nightcore Remix)",
+      "artist": "CARYS",
+      "has_synced": true,
+      "path": "select/05_Princesses_Don't_Cry_(Nightcore_Remix)_CARYS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Princesses Don't Cry (Nightcore Remix) (Nightcore Remix)",
+      "artist": "Carys",
+      "has_synced": true,
+      "path": "select/06_Princesses_Don't_Cry_(Nightcore_Remix)_(Nightcore_Remix)_Carys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Princesses Don't Cry",
+      "artist": "CARYS",
+      "has_synced": true,
+      "path": "select/07_Princesses_Don't_Cry_CARYS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Princesses Don't Cry (Nightcore Remix)",
+      "artist": "CARYS",
+      "has_synced": true,
+      "path": "select/08_Princesses_Don't_Cry_(Nightcore_Remix)_CARYS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Princesses Don’t Cry",
+      "artist": "CARYS & Nikhita Gandhi",
+      "has_synced": false,
+      "path": "select/09_Princesses_Don’t_Cry_CARYS_&_Nikhita_Gandhi.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Princesses Don't Cry - Nightcore Remix",
+      "artist": "CARYS",
+      "has_synced": true,
+      "path": "select/10_Princesses_Don't_Cry_-_Nightcore_Remix_CARYS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Princesses Don't Cry",
+      "artist": "Carys, Nikhita Gandhi",
+      "has_synced": true,
+      "path": "select/11_Princesses_Don't_Cry_Carys,_Nikhita_Gandhi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "CARYS - Princesses Don't Cry - Official Music Video",
+      "artist": "CARYS",
+      "has_synced": true,
+      "path": "select/12_CARYS_-_Princesses_Don't_Cry_-_Official_Music_Video_CARYS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Princesses Don't Cry",
+      "artist": "Nightcore Reality",
+      "has_synced": false,
+      "path": "select/13_Princesses_Don't_Cry_Nightcore_Reality.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Princesses Don’t Cry",
+      "artist": "CARYS",
+      "has_synced": true,
+      "path": "select/14_Princesses_Don’t_Cry_CARYS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "CARYS - Princesses Don’t Cry (Lyrics)",
+      "artist": "Evolve",
+      "has_synced": true,
+      "path": "select/15_CARYS_-_Princesses_Don’t_Cry_(Lyrics)_Evolve.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Princesses Don’t Cry (Dave Audé Remix)",
+      "artist": "Carys & Dave Audé",
+      "has_synced": true,
+      "path": "select/16_Princesses_Don’t_Cry_(Dave_Audé_Remix)_Carys_&_Dave_Audé.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Princesses Don't Cry",
+      "artist": "CARYS",
+      "has_synced": false,
+      "path": "select/pl_01_Princesses_Don't_Cry_CARYS.txt"
+    }
+  ]
+}
